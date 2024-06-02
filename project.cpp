@@ -63,7 +63,6 @@ private:
     int year;
 };
 
-//person class
 class Person
 {
 public:
